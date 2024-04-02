@@ -94,7 +94,7 @@ const ComplaintForm = () => {
       // // Use Google Maps Geocoding API to get coordinates from the location string
       // console.log("Location:", location); // Add this line
       // const geocodingResponse = await axios.get(
-      //   `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(location)}&key=AIzaSyAqq_dnduaIaSbwiorZ5ku6EsVfFNmvRTc`
+      //   `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(location)}&key=your_key`
       // );
 
       // console.log("Geocoding response:", geocodingResponse); // Add this line
